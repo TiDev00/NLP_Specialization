@@ -16,6 +16,7 @@ This technology is one of the most broadly applied areas of machine learning and
 By the end of this Specialization, you will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots. These and other NLP applications are going to be at the forefront of the coming transformation to an AI-powered future.
 
 ## Applied Learning Project
+
 This Specialization will equip you with machine learning basics and state-of-the-art deep learning techniques needed to build cutting-edge NLP systems:
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, translate words, and use locality-sensitive hashing to approximate nearest neighbors.
 - Use dynamic programming, hidden Markov models, and word embeddings to autocorrect misspelled words, autocomplete partial sentences, and identify part-of-speech tags for words.
